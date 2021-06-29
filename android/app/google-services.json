@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979542535",
+    "project_id": "kiosk-shopkeeper",
+    "storage_bucket": "kiosk-shopkeeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979542535:android:779eb60556ef43894100a2",
+        "android_client_info": {
+          "package_name": "com.jmm.kiosk_shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979542535-1l4r38o50mb61jb449926okdqt14iu14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jmm.kiosk_shopkeeper",
+            "certificate_hash": "4ee50f4eed601fa83e0747b5beb839c8b1630a7f"
+          }
+        },
+        {
+          "client_id": "979542535-iatblepfadtqald49fm9fd41ree3ttor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKMAhQBG0Ucw8OOHlv26v0dnwcqZ4CApg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979542535-iatblepfadtqald49fm9fd41ree3ttor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+Color darkGray = Color.fromRGBO(51, 51, 51, 1);
+Color lightGray=Color.fromRGBO(129, 129, 129, 1);
+Color screenBackground = Color.fromRGBO(249, 249, 249, 1);
+Color white=Color.fromRGBO(255,255,255,1);
+Color whitish=Color.fromRGBO(241, 241, 241, 1);
+Color lightGrayish = Color.fromRGBO(220, 220, 220, 1);
+Color orderSubtitle=Color.fromRGBO(183, 183, 183, 1);
+Color productSubtitle=Color.fromRGBO(125, 125, 125, 1);
+Color productQuantity=Color.fromRGBO(81, 80, 80, 1);
+Color dateColor=Color.fromRGBO(77, 76, 76, 1);
+Color borderColor=Color.fromRGBO(213, 213, 213, 1);
+Color maroonColor=Color.fromRGBO(191, 97, 89, 1);
+Color blackColor=Color.fromRGBO(0, 0, 0, 1);
+Color invoiceDetails=Color.fromRGBO(255, 249, 249, 1);
+Color searchGray=Color.fromRGBO(209, 209, 209, 1);
+Color selectedColor=Color.fromRGBO(51, 51, 51, 1);
+Color notSelectedColor=Color.fromRGBO(178, 177, 177, 1);
+Color cancelBtnColor=Color.fromRGBO(227, 227, 227, 1);
+Color creditCardColor=Color.fromRGBO(164, 164, 164, 1);
